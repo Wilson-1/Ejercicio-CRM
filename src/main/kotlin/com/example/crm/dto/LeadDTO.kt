@@ -1,5 +1,5 @@
 
-package com.example.CRM.dto
+package com.example.crm.dto
 
 data class LeadDTO(
     val id: Long,

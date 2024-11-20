@@ -1,8 +1,8 @@
-package com.example.CRM.service
+package com.example.crm.service
 
-import com.example.CRM.dto.CustomerDTO
-import com.example.CRM.model.Customer
-import com.example.CRM.repository.CustomerRepository
+import com.example.crm.dto.CustomerDTO
+import com.example.crm.model.Customer
+import com.example.crm.repository.CustomerRepository
 import org.springframework.stereotype.Service
 
 @Service

@@ -1,8 +1,8 @@
-package com.example.CRM.service
+package com.example.crm.service
 
-import com.example.CRM.dto.LeadDTO
-import com.example.CRM.model.Lead
-import com.example.CRM.repository.LeadRepository
+import com.example.crm.dto.LeadDTO
+import com.example.crm.model.Lead
+import com.example.crm.repository.LeadRepository
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.stereotype.Service
 

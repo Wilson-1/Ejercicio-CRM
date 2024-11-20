@@ -1,7 +1,7 @@
-package com.example.CRM.controller
+package com.example.crm.controller
 
-import com.example.CRM.dto.ActivityDTO
-import com.example.CRM.service.ActivityService
+import com.example.crm.dto.ActivityDTO
+import com.example.crm.service.ActivityService
 import org.springframework.http.ResponseEntity
 import org.springframework.web.bind.annotation.*
 

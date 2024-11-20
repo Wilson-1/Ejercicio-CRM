@@ -1,4 +1,4 @@
-package com.example.CRM
+package com.example.crm
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication

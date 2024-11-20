@@ -1,4 +1,4 @@
-package com.example.CRM.model
+package com.example.crm.model
 
 import jakarta.persistence.*
 import java.time.LocalDateTime

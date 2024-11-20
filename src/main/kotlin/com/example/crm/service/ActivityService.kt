@@ -1,10 +1,10 @@
-package com.example.CRM.service
+package com.example.crm.service
 
-import com.example.CRM.dto.ActivityDTO
-import com.example.CRM.model.Activity
-import com.example.CRM.model.Lead
-import com.example.CRM.repository.ActivityRepository
-import com.example.CRM.repository.LeadRepository
+import com.example.crm.dto.ActivityDTO
+import com.example.crm.model.Activity
+import com.example.crm.model.Lead
+import com.example.crm.repository.ActivityRepository
+import com.example.crm.repository.LeadRepository
 import org.springframework.stereotype.Service
 
 @Service
